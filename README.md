@@ -3,6 +3,8 @@ The implementation of redesign the MyStudies.uoa.gr page of the University of At
 Within the Mystudies webpage, the students can view the Curriculum of their Department, register for courses, see their grades and apply for certificates. The evaluation of the previous website has taken place, and the new one was created, taking into account Nielsen's 10 usability principles.
 
 The implementation and the results are explained on this pdf. [ReadMe.pdf](https://github.com/Vicky-Christofilopoulou/MyStudies-re-design/files/14550704/ReadMe.pdf)
+[Video presentation] (https://www.youtube.com/watch?v=07LpHRdP9I8&list=PLXKopXHbhib9sAlftkMec8kKnKwxgpynv&index=18)
+ 
 
 ## Contributors of the project :
 * [Zannis Vidalis](https://github.com/ZannisVidalis)
